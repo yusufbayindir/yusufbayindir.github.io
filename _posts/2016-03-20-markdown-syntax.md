@@ -25,11 +25,10 @@ Welcome to the Calculator App repository! This calculator app is designed with s
 ## How to Use
 To use the calculator, simply tap the number and operation keys on the display, just like a physical calculator. The app will display results as you type and provide instant calculations for your convenience.
 
-## Installation
-Clone the repository to your local machine:
-```bash
-git clone https://github.com/yusufbayindir/calculator.git
-
 ## Contact
 
 Yusuf Bayındır - @yusufbayndrr
+
+## Project Link
+
+https://github.com/yusufbayindir/Calculator
