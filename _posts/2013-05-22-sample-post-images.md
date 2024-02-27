@@ -33,15 +33,9 @@ Welcome to the Capital Quiz App repository! This interactive mobile quiz app tes
 - Select 'True' if you think the displayed capital is correct, or 'False' if you think it's not.
 - Your score will be displayed at the end of the quiz.
 
-## Installation
-To run the Capital Quiz App on your local machine:
+## Contact
+Developer: Yusuf Bayindir bayindiryusuf0@gmail.com
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yusufbayindir/quiz.git
-
-Contact
-
-Developer: Yusuf Bayindir
-Project Link: https://github.com/yusufbayindir/quiz
+## Project Link
+https://github.com/yusufbayindir/quiz
 
