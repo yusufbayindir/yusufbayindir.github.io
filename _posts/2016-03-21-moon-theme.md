@@ -44,3 +44,7 @@ Contributions to the NewsApp are welcome. Please feel free to submit pull reques
 ## Contact
 
 For any inquiries or suggestions, please reach out to bayindiryusuf0@gmail.com .
+
+## Project Link
+
+https://github.com/yusufbayindir/News
