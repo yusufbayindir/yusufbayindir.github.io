@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "BMI Calculator"
-date:   2015-08-10
-excerpt: "It is a BMI calculator for healt"
+date:   2024-02-25
+excerpt: "It is a BMI Calculator for healt"
+project: true
 tag:
 - BMI
 - calculator
