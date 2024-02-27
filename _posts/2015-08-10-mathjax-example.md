@@ -40,12 +40,9 @@ This BMI (Body Mass Index) Calculator App is a health-related tool that enables 
 4. Based on your BMI, you'll receive a health status message.
 5. To calculate again, tap 'Recalculate'.
 
-## Installation
-Clone the repository to your local machine and run it using Xcode:
+## Project Link
 
-```bash
-git clone https://github.com/yusufbayindir/BMI-Calculator.git
-
+https://github.com/yusufbayindir/BMI-Calculator
 Contact
 
 Your Name - @yusufbayndrr
