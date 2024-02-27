@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "News App"
+date:   2024-02-25
+excerpt: "It is a basic news application"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- news
 comments: true
 ---
 
