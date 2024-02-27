@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Moon kyll Theme"
-date:   2014-04-06
-excerpt: "Minimal,e column Jekyll theme for your blog."
+title:  "Calculator App"
+date:   2023-12-20
+excerpt: "A basic apple calculator"
 project: true
 tag:
-- jekyll 
-- moon
-- about
-- theme
+- calculator
 comments: true
 ---
 
