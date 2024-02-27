@@ -6,32 +6,16 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Summary
+As a Computer Engineering student, I have learned a lot about modern programming languages and how to develop applications. I understand the basics of programming with Python and Java, and I feel confident using them. I like coming up with new ideas and I'm always ready to learn more. I have a strong interest in making iOS apps and have worked on several Swift projects, which you can see on my GitHub. I'm excited to get better in this area.
+## History
+I have tried many different areas in software. For example, I've worked a bit of with cyber security, used Unity and C#, made apps with Flutter and Dart, and learned the basics of Python, data structures, and Java programming. Last summer, I spent about four months in the United States on a Work and Travel program. Now, my goal is to get better at mobile development, especially with iOS app development using Swift. You can see the work I've done so far on my GitHub. I'm focused on improving my skills in this area and being a part of the iOS app development community.
+## Education
+2,82/4 Izmir Institue of Technology
+## Skills
+* Quick Learning: Adapts and understands new concepts rapidly.
+* Problem Solving: Capable of devising creative solutions to challenges.
+* Communication: Enjoys engaging in conversation and actively listening.
+* Teamwork: Collaborates effectively to achieve common goals.
+* Leadership: Guides teams towards task completion and goal achievement.
+* Marketing: Skilled in promoting products and ideas to potential customers.
