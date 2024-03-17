@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Smart Crowd Detection"
-date:   2024-01-15
+date:   2024-03-15
 excerpt: "A program that detect people and creates crowd heatmap"
 project: true
 tag:
