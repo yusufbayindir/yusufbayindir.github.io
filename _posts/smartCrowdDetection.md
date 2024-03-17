@@ -14,7 +14,7 @@ comments: true
 
 @ahmetcoko
 
-@HuseyınKanat
+@HuseyinKanat
 
 @yusufbayindir
 
