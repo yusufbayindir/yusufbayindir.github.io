@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Capital City Quiz"
+title:  "Smart Crowd Detection"
 date:   2024-01-15
-excerpt: "It is a basic quiz application"
+excerpt: "A program that detect people and creates crowd heatmap"
 project: true
 tag:
-- quiz
+- crowdDetection
+- python
 comments: true
 ---
+
 #Authors
 
 @ahmetcoko
