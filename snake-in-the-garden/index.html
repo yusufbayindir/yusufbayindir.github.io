@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Snake in the Garden: classic Snake, cozy garden</title>
+<meta name="description" content="Snake in the Garden is the classic snake game grown into a cozy garden adventure: 100 levels, gems, power-ups, skins and an endless Classic mode.">
+<link rel="icon" href="icon.png">
+<style>
+  :root { --grass:#9BD35A; --grass2:#88C64A; --ink:#2E272C; --cream:#FFF4DC; --orange:#F59A2A; --sun:#FFC94A; --muted:#6B5E57; }
+  * { box-sizing:border-box; }
+  body { margin:0; color:var(--ink); font:17px/1.6 "Arial Rounded MT Bold","Avenir Next",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background-color:var(--grass); background-image:conic-gradient(var(--grass2) 25%, transparent 0 50%, var(--grass2) 0 75%, transparent 0); background-size:96px 96px; }
+  .wrap { max-width:760px; margin:0 auto; padding:56px 20px 72px; text-align:center; }
+  .card { background:var(--cream); border:4px solid var(--ink); border-radius:28px; box-shadow:0 10px 0 rgba(46,39,44,.25); padding:36px 26px 32px; }
+  .icon { width:128px; height:128px; border-radius:30px; border:4px solid var(--ink); box-shadow:0 8px 0 rgba(46,39,44,.25); }
+  h1 { font-size:38px; line-height:1.15; margin:18px 0 6px; }
+  h1 .s { color:var(--orange); -webkit-text-stroke:1.5px var(--ink); }
+  .tag { color:var(--muted); font-size:19px; margin:0 0 22px; }
+  .pill { display:inline-block; background:var(--sun); border:3px solid var(--ink); border-radius:999px; padding:5px 14px; font-size:15px; margin:4px; }
+  .shots { display:flex; gap:14px; justify-content:center; margin:30px 0 8px; flex-wrap:wrap; }
+  .shots img { width:200px; border-radius:22px; border:4px solid var(--ink); box-shadow:0 8px 0 rgba(46,39,44,.25); background:#fff; }
+  .soon { display:inline-block; margin-top:22px; background:var(--ink); color:var(--cream); border-radius:16px; padding:12px 22px; font-size:17px; }
+  ul { text-align:left; max-width:520px; margin:26px auto 0; padding-left:22px; }
+  li { margin:4px 0; }
+  .links { margin-top:30px; }
+  .links a { display:inline-block; margin:6px 12px; color:var(--ink); font-weight:700; }
+  footer { margin-top:26px; color:var(--ink); font-size:14px; opacity:.75; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="card">
+    <img class="icon" src="icon.png" alt="Snake in the Garden app icon">
+    <h1><span class="s">Snake</span> in the Garden</h1>
+    <p class="tag">The classic snake game, grown into a cozy garden adventure.</p>
+    <span class="pill">100 levels</span><span class="pill">5 garden worlds</span><span class="pill">Power-ups</span><span class="pill">12 skins</span><span class="pill">Endless mode</span><span class="pill">Plays offline</span>
+
+    <div class="shots">
+      <img src="gameplay.jpg" alt="Gameplay in the Sunny Meadow">
+      <img src="frost.jpg" alt="Frosty Field level with thorns and a power-up">
+      <img src="shop.jpg" alt="Snake skins shop">
+    </div>
+
+    <ul>
+      <li>Swipe to steer your hungry snake across sunny lawns.</li>
+      <li>Eat apples to reveal sparkling gems. Collect every Ruby, Sapphire and Amber to clear the level.</li>
+      <li>Edges wrap around: slip off one side and pop out the other.</li>
+      <li>Lucky power-ups like Zoom, Snip, Magnet, Ghost and Shield appear now and then. Grab them before they vanish!</li>
+      <li>Chase your high score in the endless Classic mode, and earn coins for skins and upgrades.</li>
+    </ul>
+
+    <span class="soon">Coming soon to the App Store and Google Play</span>
+
+    <div class="links">
+      <a href="support.html">Support</a>
+      <a href="privacy.html">Privacy Policy</a>
+    </div>
+  </div>
+  <footer>© 2026 Yusuf Bayindir</footer>
+</div>
+</body>
+</html>
